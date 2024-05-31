@@ -7,3 +7,4 @@ mysql-connector-python
 mysql-connector-python-rf
 pymsql
 cryptography
+python-dotenv
